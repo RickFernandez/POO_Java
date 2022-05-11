@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Henrique Fernandez\Desktop\wsMaster3\.metadata\.plugins\org.eclipse.jdt.core
+1167275426.index
+1865797976.index
+3997210831.index
